@@ -1,0 +1,45 @@
+inline  => inside tag style property
+
+internal  => insie <style> tag
+
+external  => external css file
+
+inline 
+syntax => tag style="property:value;property:value;""
+to move a text center => textalign=center,  textdecoration=underline,overline,linethrough 
+
+internal syntax
+<style>
+select element {
+property:value;
+property:value;
+}
+
+external
+separate css file
+syntax same as internal css
+to link => <link  href=css file path
+
+selectors => if multiple h1 tags are there we need to style them seperately
+
+if # => id selector
+tag selector=tag name
+selection with tag id class
+class selector= .(dot)
+
+
+css units=> absolute units,relative units
+
+absolute(fixed)=pixel
+relative(related to other element)=%
+
+box model
+margin=>border outer space
+padding=>inner space
+
+profile:unsplash.com
+color:mycolorspace
+image:pexals
+
+
+

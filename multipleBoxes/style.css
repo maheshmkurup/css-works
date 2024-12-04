@@ -1,0 +1,79 @@
+body{
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+.row{
+    display:flex;
+    justify-content: center;
+    margin:20px;
+}
+.color-box{
+    width:100px;
+    height:150px;
+    margin:5px;
+    
+}
+.color1{
+    background-color: grey;
+}
+.color2{
+    background-color: darkgreen;
+}
+.color3{
+    background-color: green;
+}
+.color4{
+    background-color: lightgreen;
+}
+.color5{
+    background-color:aliceblue;
+}
+.color6{
+    background-color: orange;
+}
+.color7{
+    background-color:rgb(255, 0, 85);
+}
+.color8{
+    background-color: rgb(233, 113, 133);
+}
+.color9{
+    background-color:violet;
+}
+.color10{
+    background-color:blueviolet;
+}
+.color11{
+    background-color: violet;
+}
+.color12{
+    background-color: grey;
+}
+.color13{
+    background-color: aqua;
+}
+.color14{
+    background-color: greenyellow;
+}
+.color15{
+    background-color: sandybrown;
+}
+.color16{
+    background-color:rgb(241, 8, 117);
+}
+.color17{
+    background-color:rgb(64, 18, 18);
+}
+.color18{
+    background-color: aqua;
+}
+.color19{
+    background-color: rgb(42, 152, 152);
+}
+.color20{
+    background-color: rgb(137, 94, 178);
+}
+.color21{
+    background-color: purple;
+}

@@ -1,0 +1,28 @@
+*{
+    margin:0;
+}
+.card{
+    width:60%;
+    min-height: 500px;
+    border: solid black 0.1px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card-title{
+    margin-left: 350px;
+    flex:3
+}
+.card-image img{
+    width:300px;
+    height:200px;
+    
+}
+.card-image{
+  
+    margin-top: 70px;
+}
+.card-body>P{
+    line-height: 30px;
+
+}
